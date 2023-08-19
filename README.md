@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hirdesh Kumar Yadav</h1>
-<h3 align="center"><strong>Data Science</strong></h3>
+<h2 align="center"><strong>Data Science</strong></h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsam1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsam1503" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarsam1503" alt="kumarsam1503" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **Excel**
 
-- 🌱 I’m currently learning **JAVA,DSA**
+- 🌱 I’m currently learning **Python,R Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kumarsam1503](https://github.com/kumarsam1503)
 
