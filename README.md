@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Hirdesh Kumar Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"><strong>Data Science</strong></h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsam1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsam1503" /> </p> -->
 
