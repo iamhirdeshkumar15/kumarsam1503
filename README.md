@@ -16,9 +16,6 @@
 <a href="https://www.instagram.com/kumarhirdesh15/">
   <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://web.telegram.org/a/">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 <!--<a href="https://us05web.zoom.us/profile">
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </a>-->
