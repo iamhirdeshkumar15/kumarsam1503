@@ -2,7 +2,7 @@
 <!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Hirdesh Kumar Yadav](https://www.linkedin.com/in/hirdesh-kumar-yadav/)! -->
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Specialist+in+Data+Visualization;Passionate+Web+Developer;Data+Analyst+with+Expertise+in+Power+BI;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Data+Visualization+Specialist;Passionate+Web+Developer;Data+Analyst+with+Expertise+in+Power+BI;Freelancer)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/hirdesh-kumar-yadav/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
