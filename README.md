@@ -41,7 +41,7 @@
 - I'm a Data Analytics Engineer ❤️
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, You'll find me staying up-to-date with Tech News, exploring Web Development, and diving into Data Analysis using Microsoft Power BI and Excel.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsam1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsam1503" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsam1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsam1503" /> <img src="https://img.shields.io/github/followers/kumarsam1503.svg?style=social&label=Follow&maxAge=2592000" alt="kumarsam1503"/> </p>
 
 <!-- ##  ✔ Technologies  -->
 
@@ -65,7 +65,7 @@
 
 
 ## Others
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
 
 ## Achievements
 <!-- - [Microsoft Azure Badges 📛](https://learn.microsoft.com/en-us/users/vikramkumar5/) <br> 
@@ -107,9 +107,9 @@
   <a href="https://github.com/kumarsam1503?tab=stars&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kumarsam1503"/>
   </a>-->
-<a href="https://github.com/kumarsam1503?tab=followers">
+<!-- <a href="https://github.com/kumarsam1503?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/kumarsam1503?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-</a>
+</a>-->
 
 ## Feedback
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge&logo=feedback&logoColor=white" />
