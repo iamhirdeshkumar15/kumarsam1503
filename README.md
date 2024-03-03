@@ -2,15 +2,15 @@
 <!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Hirdesh Kumar Yadav](https://www.linkedin.com/in/iamhirdeshkumar15)! -->
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Data+Visualization+Specialist;Passionate+DevOps;Passionate+Web+Developer;Data+Analyst+with+Expertise+in+Power+BI;Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Aspiring+Data+Analysts;Passionate+DevOps+Engineer;Passionate+Web+Developer;Data+Analyst+with+Expertise+in+Power+BI)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/iamhirdeshkumar15">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
-<a href="mailto:hirdeshb54@gmail.com">
+<a href="mailto:hirdeshkumaryadav15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<!--<a href="https://twitter.com/thevikram_seth">
+<!--<a href="https://twitter.com/hirdeshkumaryadav15">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>-->
 <a href="https://www.instagram.com/kumarhirdesh15/">
@@ -30,7 +30,7 @@
   <img srec="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>-->
     
-<!--<a href="https://www.buymeacoffee.com/iamvikramkumar5">
+<!--<a href="https://www.buymeacoffee.com/hirdeshkumaryadav15">
 	<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>-->
 </div>
@@ -40,7 +40,7 @@
 <img align="right" alt="Coding" width="400" height="200" src="https://user-images.githubusercontent.com/31332352/119162644-9ec37580-ba28-11eb-8e73-b76149197a1e.gif"><br>
 - I'm a Data Analytics Engineer ❤️
 - I'm enthusiastic about what I do and I constantly learn new things. 
-- In my spare time, You'll find me staying up-to-date with Tech News, exploring Web Development, and diving into Data Analysis using Microsoft Power BI and Excel.
+- In my spare time, You'll find me staying up-to-date with Tech News, exploring DevOps tools, and diving into Data Analysis using Microsoft Power BI, Tableau, and Excel.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsam1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsam1503" /> <img src="https://img.shields.io/github/followers/kumarsam1503.svg?style=social&label=Follow&maxAge=2592000" alt="kumarsam1503"/> </p>
 
 <!-- ##  ✔ Technologies  -->
