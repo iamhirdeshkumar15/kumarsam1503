@@ -1,4 +1,4 @@
-# Hi There, I'm [Hirdesh Kumar Yadav](https://www.linkedin.com/in/iamhirdeshkumar15)!<!--[<a href="https://<name>.github.io/My_Portfolio/">KUMARSAM1503</a>]  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
+# Hi There, I'm [Hirdesh Kumar Yadav](https://www.linkedin.com/in/iamhirdeshkumar15)!<!--[<a href="https://<name>.github.io/My_Portfolio/">IAMHIRDESHKUMAR15</a>]  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 <!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Hirdesh Kumar Yadav](https://www.linkedin.com/in/iamhirdeshkumar15)! -->
 <div align="center">
  
@@ -41,7 +41,7 @@
 - I'm a Data Analytics Engineer ❤️
 - I'm enthusiastic about what I do and I constantly learn new things. 
 - In my spare time, You'll find me staying up-to-date with Tech News, exploring DevOps tools, and diving into Data Analysis using Microsoft Power BI, Tableau, and Excel.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsam1503&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsam1503" /> <img src="https://img.shields.io/github/followers/kumarsam1503.svg?style=social&label=Follow&maxAge=2592000" alt="kumarsam1503"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhirdeshkumar15&label=Profile%20views&color=0e75b6&style=flat" alt="iamhirdeshkumar15" /> <img src="https://img.shields.io/github/followers/iamhirdeshkumar15.svg?style=social&label=Follow&maxAge=2592000" alt="iamhirdeshkumar15"/> </p>
 
 <!-- ##  ✔ Technologies  -->
 
@@ -90,11 +90,11 @@
   
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kumarsam1503&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=iamhirdeshkumar15&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kumarsam1503&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+<img src="https://github-profile-trophy.vercel.app/?username=iamhirdeshkumar15&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
  </div>
 
  <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
@@ -104,10 +104,10 @@
 
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges && https://github.com/idealclover/GitHub-Star-Counter -->
 <!--<p align="center">
-  <a href="https://github.com/kumarsam1503?tab=stars&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kumarsam1503"/>
+  <a href="https://github.com/iamhirdeshkumar15?tab=stars&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/iamhirdeshkumar15"/>
   </a>-->
-<!-- <a href="https://github.com/kumarsam1503?tab=followers">
+<!-- <a href="https://github.com/iamhirdeshkumar15?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/kumarsam1503?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 </a>-->
 
